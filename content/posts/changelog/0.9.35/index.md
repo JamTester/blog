@@ -25,7 +25,7 @@ title: 0.9.35 Changelog
 - Fixed a few Particle Editor crashes
 - Fixed a rare crash related to sound loading
 - Fixed crash-on-exit in Hammer when running it in wine
-- Fixed matrials with missing texture not reloading properly in hammer
+- Fixed materials with missing texture not reloading properly in hammer
 - Fixed some entity output delays firing one tick earlier than in other games
 - Fixed some similarly delayed entity outputs not firing in the expected order
 ### Improved (7)
